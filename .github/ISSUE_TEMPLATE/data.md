@@ -1,9 +1,10 @@
+
 ---
-name: Database Update
-about: Add an update to the database
+name: AL Haqq invest
+about: 
 title: "[DATA]"
 labels: 'type:update'
-assignees: 'JerBouma'
+assignees: 'AL HAQQ'
 
 ---
 
