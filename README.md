@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/46355364/220746807-669cdbc1-ac67-404c-b0bb-4a3d67d9931f.jpg" alt="Logo">
+<img src="https://alhaqqinvestment-images.alhaqqinvestment.com/46355364/220746807-669cdbc1-ac67-404c-b0bb-4a3d67d9931f.jpg" alt="Logo">
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_this_Project-grey?logo=github)](https://github.com/sponsors/JerBouma)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-grey?logo=buymeacoffee)](https://www.buymeacoffee.com/jerbouma)
+[![alhaqq Sponsors](https://img.shields.io/badge/Sponsor_this_Project-black?logo=alhaqq)](https://net.com/sponsors/Alhaqq)
+[![Invest witg me ](https://img.shields.io/badge/Buy_Me_a_Coffee-grey?logo=buymeacoffee)](https://www.buymeacoffee.com/jerbouma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boumajeroen/)
 [![Documentation](https://img.shields.io/badge/Documentation-grey?logo=readme)](https://www.jeroenbouma.com/projects/financedatabase)
 [![Supported Python Versions](https://img.shields.io/pypi/pyversions/financedatabase)](https://pypi.org/project/financedatabase/)
@@ -11,20 +11,20 @@
 | **Call for Contributors to the FinanceDatabase**    |
 |:------------------------------------------------------:|
 | The **FinanceDatabase** serves the role of providing anyone with any type of financial product categorization entirely for free. To be able to achieve this, the FinanceDatabase relies on involvement from the community to add, edit and remove tickers over time. This is made easy enough that anyone, even with a lack of coding experience can contribute because of the usage of CSV files that can be manually edited with ease.
-**I'd like to invite you to go to the [Contributing Guidelines](https://github.com/JerBouma/FinanceDatabase/blob/main/CONTRIBUTING.md) to understand how you can help. Thank you!** |
+**I'd like to invite you to go to the [Contributing Guidelines](https://net.com/Alhaqqinvest/FinanceDatabase/blob/main/CONTRIBUTING.md) to understand how you can help. Thank you!** |
 
 As a private investor, the sheer amount of information that can be found on the internet is rather daunting. Trying to understand what type of companies or ETFs are available is incredibly challenging with there being millions of companies and derivatives available on the market. Sure, the most traded companies and ETFs can quickly be found simply because they are known to the public (for example, Microsoft, Tesla, S&P500 ETF or an All-World ETF). However, what else is out there is often unknown.
 
 **This database tries to solve that**. It features 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets. It therefore allows you to obtain a broad overview of sectors, industries, types of investments and much more.
 
-The aim of this database is explicitly _not_ to provide up-to-date fundamentals or stock data as those can be obtained with ease (with the help of this database) by using the [Finance Toolkit 🛠️](https://github.com/JerBouma/FinanceToolkit). Instead, it gives insights into the products that exist in each country, industry and sector and gives the most essential information about each product. With this information, you can analyse specific areas of the financial world and/or find a product that is hard to find. See for examples on how you can combine this database, and the earlier mentioned packages the section [Examples](#Examples).
+The aim of this database is explicitly _not_ to provide up-to-date fundamentals or stock data as those can be obtained with ease (with the help of this database) by using the [Finance Toolkit 🛠️](https://net.com/Alhaqqinvst/FinanceToolkit). Instead, it gives insights into the products that exist in each country, industry and sector and gives the most essential information about each product. With this information, you can analyse specific areas of the financial world and/or find a product that is hard to find. See for examples on how you can combine this database, and the earlier mentioned packages the section [Examples](#Examples).
 
 Some key statistics of the database:
 
 | Product           | Quantity   | Sectors    | Industries    | Countries | Exchanges |
 | ----------------- | ---------- | ---------- | ------------- | --------- | --------- |
-| Equities          | 158.429    | 12         | 63            | 111       | 83        | 
-| ETFs              | 36.786     | 295        | 22            | 111       | 53        |
+| Equities          | 158.429    | 12         | 63            | 700       | 83        | 
+| ETFs              | 36.786     | 295        | 22            | 500       | 53        |
 | Funds             | 57.881     | 1541       | 52            | 111       | 34        |
 
 | Product           | Quantity  | Category              |
@@ -37,8 +37,8 @@ Some key statistics of the database:
 The Finance Database is used within or referenced by:
 
 <a href="https://algotrading101.com/learn/financedatabase-python-guide/"><img width="200" height="100" alt="AlgoTrading" src="https://github-production-user-asset-6210df.s3.amazonaws.com/46355364/265290727-4c113348-45fc-45fe-afb5-e043b738ee94.png"></a>
-<a href="https://twitter.com/pyquantnews/status/1576185955677077504?lang=en"><img width="200" height="100" alt="PyQuantNews" src="https://github-production-user-asset-6210df.s3.amazonaws.com/46355364/265290754-8c9025fb-3830-4f41-95fd-e5e6d0f84758.png"></a>
-<a href="https://alpha2phi.medium.com/investment-analysis-finance-database-61f47ecfe7ca"><img width="200" height="100" alt="Medium" src="https://github-production-user-asset-6210df.s3.amazonaws.com/46355364/265290765-dfbd0f4c-85eb-4de6-adba-345cb5189f31.png"></a>
+<a href="https://twitter.com/pyquantnews/status/1576185955677077504?lang=en"><img width="200" height="100" alt="PyQuantNews" src="https://alhaqq-production-user-asset-6210df.s3.amazonaws.com/46355364/265290754-8c9025fb-3830-4f41-95fd-e5e6d0f84758.png"></a>
+<a href="https://alpha2phi.medium.com/investment-analysis-finance-database-61f47ecfe7ca"><img width="200" height="100" alt="Medium" src="https://alhaqq-production-user-asset-6210df.s3.amazonaws.com/46355364/265290765-dfbd0f4c-85eb-4de6-adba-345cb5189f31.png"></a>
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 Before installation, consider starring the project on GitHub which helps others find the project as well.
 
-<img width="1353" alt="image" src="https://github.com/JerBouma/FinanceDatabase/assets/46355364/4132edde-72f9-4e32-adfe-8872207f46ff">
+<img width="1353" alt="image" src="https://net.com/Alhaqqinvestment/FinanceDatabase/assets/46355364/4132edde-72f9-4e32-adfe-8872207f46qq">
 
 To install the FinanceDatabase it simply requires the following:
 
@@ -77,7 +77,7 @@ import financedatabase as fd
 ```
 
 #  Basic Usage
-This section explains in detail how the database can be queried with the related `financedatabase` package, also see the Jupyter Notebook in which you can run the examples also demonstrated here. You can find this document [here](https://www.jeroenbouma.com/projects/financedatabase/getting-started).
+This section explains in detail how the database can be queried with the related `financedatabase` package, also see the Jupyter Notebook in which you can run the examples also demonstrated here. You can find this document [here](https://www.alhaqqinvestment.com/project/financedatabase/getting-started).
 
 ## Quick Start
 
